@@ -15,6 +15,6 @@ Requirements: Julia installed
 
 ----------------------------------
 
-thing and thing.rs - thing.rs is the rust sorce file for thing. to run thing just run thing
+thing and thing.rs - thing.rs is the rust sorce file for thing. to run thing just run thing (linux only i think cuz i compiled it in linux)
 
 --------------------------------
