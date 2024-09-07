@@ -9,3 +9,6 @@ Requirements:
 Python 3 installed
 
 ----------------------------------
+
+thing.jl
+Requirements: Julia installed
